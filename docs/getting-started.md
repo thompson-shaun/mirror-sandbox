@@ -1,3 +1,5 @@
 # Getting started
 
-Install the SDK, then run the examples.
+1. Install the SDK.
+2. Run the hello-world example.
+3. Browse the samples.
